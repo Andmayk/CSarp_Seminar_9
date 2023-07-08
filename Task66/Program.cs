@@ -18,6 +18,7 @@ int SumNumbers(int number1, int number2)
 int number1 = ReadInt("Введите начальное число");
 int number2 = ReadInt("Введите конечное число");
 
+System.Console.Write("Сумма значений ");
 if (number1 < number2)
 {
     System.Console.WriteLine(SumNumbers(number1, number2));
