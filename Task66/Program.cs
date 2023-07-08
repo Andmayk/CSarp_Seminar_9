@@ -26,4 +26,3 @@ else
 {
     System.Console.WriteLine(SumNumbers(number2, number1));
 }
-
